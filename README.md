@@ -1,0 +1,2 @@
+# practice_machine_learning_pytorch
+夏休みの間に頑張ってPytorchの練習をするレポジトリ
